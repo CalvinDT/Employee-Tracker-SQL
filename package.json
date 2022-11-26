@@ -17,10 +17,7 @@
     },
     "homepage": "https://github.com/CalvinDT/Employee-Tracker-SQL#readme",
     "dependencies": {
-      "comma-number": "^2.0.1",
-      "console.table": "^0.10.0",
       "inquirer": "^9.1.4",
       "mysql": "^2.3.3",
-      "ui-terminal": "^1.1.4"
     }
   }
